@@ -7,6 +7,13 @@ Absent  === 19
 
 
 
+===== VIDEO ====
+
+[![Everything Is AWESOME](https://img.youtube.com/vi/gKJwHvdfP8k/0.jpg)](https://www.youtube.com/watch?v=gKJwHvdfP8k&feature=youtu.be "Everything Is AWESOME")
+
+===== VIDEO ====
+
+
 
 ![login_1](https://cloud.githubusercontent.com/assets/22056194/23553431/4aa34e5a-0053-11e7-98c7-b7c889f7b84f.png)
 
